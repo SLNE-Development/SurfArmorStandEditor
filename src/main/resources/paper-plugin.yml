@@ -41,6 +41,9 @@ dependencies:
     WorldGuard:
       required: false
       load: BEFORE
+    CoreProtect:
+      required: false
+      load: BEFORE
 
 commands:
   ase:
