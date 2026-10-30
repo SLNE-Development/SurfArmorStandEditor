@@ -1,4 +1,5 @@
-name: ArmorStandEditor
+name: SurfArmorStandEditor
+provides: [ArmorStandEditor]
 main: io.github.rypofalem.armorstandeditor.ArmorStandEditorPlugin
 version: 26.3-52.1
 api-version: "1.19"

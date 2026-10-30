@@ -1,0 +1,7 @@
+tasks.named('shadowJar') {
+    archiveBaseName.set('SurfArmorStandEditor')
+}
+
+tasks.named('jar') {
+    archiveBaseName.set('SurfArmorStandEditor')
+}
